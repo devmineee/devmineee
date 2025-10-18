@@ -1,38 +1,37 @@
-
-
-<div align=center><h1>Tech Stack</h1></div>
-<div align=center>
-
-<img alt="Static Badge" src="https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=%23FFFFFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/React-%23212121?style=for-the-badge&logo=react&logoColor=%2379D8F7">
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000000">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/typescript-%232F74C0?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/java-%23026F91?style=for-the-badge&logo=java&logoColor=%23FFFFFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFFFFF">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=%23FFFFFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/mattermost-%23274077?style=for-the-badge&logo=mattermost&logoColor=%23FFFFFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23FFFFFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/slack-%234A154B?style=for-the-badge&logo=slack&logoColor=%23FFFFFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=%23FFFFFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=%23FFFFFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/jira-%230052CC?style=for-the-badge&logo=jira&logoColor=%23FFFFFF">
-
-</div>
-<div align=center><h1> Algorithm</h1></div>
-
-<div style="display:flex;flex-flow:row;">
-<div>
+<div align="center">
   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongmin97)](https://solved.ac/seongmin97)
-
-</div>
-<div>
+  <h1>🚀 Tech Stack</h1>
+  <p>I've worked with the following technologies and tools 👇</p>
+  <br/>
   
-[![코드트리|실력진단-seongmin97](https://banner.codetree.ai/v1/banner/seongmin97)](https://www.codetree.ai/profiles/seongmin97)
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-%23212121?style=for-the-badge&logo=react&logoColor=%2379D8F7" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-%232F74C0?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-%23026F91?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 
-</div>
+  <!-- Collaboration -->
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Mattermost-%23274077?style=for-the-badge&logo=mattermost&logoColor=white" alt="Mattermost">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  
+  <br/><br/>
+  <hr style="width:70%;border:0.5px solid #ccc;"/>
 
+  <h1>💼 Career</h1>
+    <p>2025.06 ~         | Fullstack Developer, Korea Spatial Information & Communitaction Co.</p>
+    <p>2023.07 ~ 2024.06 | 10th, Samsung Soft Academy for Youth (SSAFY) </p>
+  <hr style="width:70%;border:0.5px solid #ccc;"/>
+  
+  <h1>🧩 Algorithm</h1>
+  <p>My problem-solving progress on <a href="https://solved.ac/seongmin97" target="_blank">Solved.ac</a></p>
+  
+  <a href="https://solved.ac/seongmin97">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seongmin97" alt="Solved.ac 프로필">
+  </a>
 </div>
